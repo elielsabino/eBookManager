@@ -16,6 +16,8 @@ namespace eBookManager.Engine
         public DateTime UltimoAcesso { get; set; }
         public DateTime Criado { get; set; }
         public DateTime DataPublicacao { get; set; }
+        public int Pontos { get; set; }
+
 
        
     }
